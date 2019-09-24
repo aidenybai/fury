@@ -1,0 +1,9 @@
+{
+  "name": "Fury",
+  "short_name": "Fury",
+  "theme_color": "#E42846",
+  "background_color": "#000",
+  "display": "standalone",
+  "start_url": "./index.html",
+  "splash_pages": null
+}
